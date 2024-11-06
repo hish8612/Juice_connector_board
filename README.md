@@ -1,4 +1,4 @@
-# [Radioberry_Juice_connector_board](https://hish8612.github.io/Juice_connector_board/)
+# [Radioberry_Juice_connector_board](https://github.com/hish8612/Juice_connector_board)
 
  beta0.1 Release
 
